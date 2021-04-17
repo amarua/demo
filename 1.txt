@@ -1,1 +1,2 @@
-it addred before 1st commit
+it added before 1st commit
+it addred after 1st commit
